@@ -4,4 +4,4 @@
 
 [Mastodon Social](https://mastodon.social/@cristi56)
 
-[YouTube Channel](https://www.youtube.com/@CristiYTRomania)
+[My YouTube Channel](https://www.youtube.com/@CristiYTRomania)
