@@ -4,4 +4,6 @@
 
 [Mastodon Social](https://mastodon.social/@cristi56)
 
+[Vivaldi Social](https://social.vivaldi.net/@CristiYTRomania)
+
 [My YouTube Channel](https://www.youtube.com/@CristiYTRomania)
