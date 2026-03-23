@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 [What music I like](https://www.youtube.com/@NoCopyrightSounds)
 
