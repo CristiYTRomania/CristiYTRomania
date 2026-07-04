@@ -9,5 +9,3 @@
 [Vivaldi Social](https://social.vivaldi.net/@CristiYTRomania)
 
 [My YouTube Channel](https://www.youtube.com/@CristiYTRomania)
-
-[Pixelfed](https://pixelfed.social/cristi56)
