@@ -6,6 +6,6 @@
 
 [Mastodon Social](https://mastodon.social/@cristi56)
 
-[GNU/Linux Tube](https://gnulinux.tube/c/cristiytromania/videos)
+[PeerTube (GNU/Linux Tube)](https://gnulinux.tube/c/cristiytromania/videos)
 
 [My YouTube Channel](https://www.youtube.com/@CristiYTRomania)
