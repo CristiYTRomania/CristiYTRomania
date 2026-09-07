@@ -9,3 +9,5 @@
 [PeerTube (GNU/Linux Tube)](https://gnulinux.tube/c/cristiytromania/videos)
 
 [My YouTube Channel](https://www.youtube.com/@CristiYTRomania)
+
+[Pixelfed](https://pixelfed.com/cristiytromania)
